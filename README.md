@@ -18,7 +18,7 @@ Terminal Chess is a simple, terminal-based implementation of the classic chess g
 
 1. Clone the repository:
    ```
-   git clone https://github.com/[your_username]/terminal-chess.git
+   git clone https://github.com/Bowen12137/terminal-chess.git
    ```
 2. Navigate to the cloned directory:
    ```
@@ -33,7 +33,7 @@ Terminal Chess is a simple, terminal-based implementation of the classic chess g
    ```
 2. Run the game:
    ```
-   java chess.Game
+   java chess/Game
    ```
 
 ## How to Play
