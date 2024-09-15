@@ -36,6 +36,9 @@ Terminal Chess is a simple, terminal-based implementation of the classic chess g
    java chess/Game
    ```
 
+## Screenshots
+![GameView](chess.png)
+
 ## How to Play
 
 1. The board displays with columns labeled a-h and rows labeled 1-8.
